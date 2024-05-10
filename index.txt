@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Solano </title>
+<link rel="stylesheet" href="Solano.css" type="text/css">
+</head>
+
+<body>
+
+
+<p class="search"> Click here to search </p>
+
+
+<img src="https://i.pinimg.com/564x/f0/ea/fc/f0eafc2077e9d25235dda65de5fac84b.jpg" class="omg">
+
+<img src="https://pngimg.com/uploads/seashell/seashell_PNG72.png" class="pfp">
+
+<h1 class="handle"> My Grade 9 Portfolio <i> ! </i> </h1>
+<p class="subhandle"> @Clarisse_Solano0512 </p>
+
+
+
+<table width="1333px" class="extras">
+<tr align="center">
+<td> <u> About </u> </td>
+
+<td> <a href="Solano2.html"  style="text-decoration:none;"> Videos </a> </td>
+
+<td> <a href="Solano3.html" style="text-decoration:none;"> Photos </a> </td>
+
+<td> <a href="Solano4.html" style="text-decoration:none;"> 
+ Blogs </a> </td>
+</tr>
+</table>
+
+<iframe src="https://drive.google.com/file/d/1XW3FBFShndeTsDaKPwbNLmuZgDEVpjzV/preview" width="300" height="300" allow="autoplay" style="float:left;" alt="happy frog"></iframe> 
+
+<p class="labels" title="She sells seashells by the seashore."> <u> Welcome to my page <i> !! </i>  </u> </p> 
+<ul class="liszt"> 
+<li> Hello! I am Clarisse Andrealyn M. Solano from 9-Fairness. </li>
+<br>
+<li> This is my Portfolio for ICT. It contains different kinds of activities <br> from Grade 9 and my experiences this school year. </li>
+<br>
+<li> I hope you have fun!! :D To start navigating, click on the buttons on the top. <br> (Videos, Photos, and Blogs).  </li>
+</ul>
+
+
+<br><br>
+
+
+
+
+
+
+
+
+<table class="buttons" width="380px" cellspacing="8px">
+<tr align="center">
+<td> Add Friend </td>
+<td> Message </td>
+</tr>
+</table>
+
+
+<img src="https://i.pinimg.com/564x/86/7e/0d/867e0d5bfb4be2d6af4a30a0ab3ad9ac.jpg" class="search2" width="185px" height="45px">
+
+<img src="bird.jpg" 
+class="search3" width="45px" height="45px">
+
+
+
+</body>
+</html>

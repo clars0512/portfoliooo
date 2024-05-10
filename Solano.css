@@ -1,0 +1,207 @@
+body {background-image:url("https://i.pinimg.com/564x/f4/9a/19/f49a19e67dfcb5061eadaada090b96d4.jpg");}
+
+
+.pfp {
+   position:absolute;
+   top:230px;
+   left:35px;
+   width:200px;
+   height:200px;
+   float:left;
+}
+
+.handle {
+   position:relative;
+   top:-30px;
+   left: 250px;
+   font-size: 55px;
+   font-family:"Helvetica";
+   color:#18638B;
+}
+
+.subhandle {
+   position:relative;
+   top:-50px;
+   left: 250px;
+   font-size: 30px;
+   font-family:"Helvetica";
+   color:#87354d;
+}
+    
+.omg {
+   width:1335px;
+   height:260px;
+   position:static;
+   top:0px;
+   left:0px;
+}
+
+
+
+
+.extras {
+   background-color:#bed4e8;
+   color:#18638B;
+   font-family:Helvetica;
+   font-size:27px;
+   position:relative;
+   top:-47px;
+}
+
+
+.labels { 
+   position:relative;
+   top:-30px;
+   left:15px;
+   font-size: 30px;
+   font-family:"Helvetica";
+   color:#18638B;
+   font-weight:bold;
+}
+
+
+.posts {
+   font-family:Helvetica;
+   font-size:20px;
+}
+
+.liszt {
+   list-style-image:url("RNAY2520.PNG");
+   list-style-type:disc;
+   font-family:Helvetica;
+   font-size:23px;
+   color:#87354d;
+   position:relative;
+   left:35px;
+   top:-40px;
+}
+
+.load {
+   position:relative;
+   right:20px;
+   font-size: 20px;
+   font-family:"Helvetica";
+   color:gray;
+   font-weight:bold;
+}
+
+
+.blog {
+   font-size: 20px;
+   font-family:"Helvetica";
+   color:#87354d;
+   position:relative;
+   left:30px;
+   top:15px;
+   background-color:#BED4E8; 
+   width:1280px;
+}
+
+.blog2 {
+   font-size: 27px;
+   font-family:"Helvetica";
+   color:#18638B;
+   text-decoration:underline;
+   font-weight:bold;
+   position:relative;
+   left:40px;
+}
+
+.blog3 {
+   font-size: 23px;
+   font-family:"Helvetica";
+   color:#87354d;
+   position:relative;
+   left:40px;
+}
+
+.blog4 {
+    background-color:#DFEAF5;
+}
+
+.blog5 {
+   font-size: 23px;
+   font-family:"Helvetica";
+   color:#18638B;
+   position:relative;
+   left:40px;
+}
+
+
+
+
+.search {
+   color:#4c4d4f; 
+   background-color:#e9eaf0;
+   border-radius:25px;
+   width:800px;
+   position:relative;
+   left:250px;
+   text-align:center;
+   font-family:Helvetica;
+   font-size:25px;
+}
+
+.search2 {
+   position:absolute;
+   top:20px;
+   left:1150px;
+}
+
+.search3 {
+   position:absolute;
+   top:20px;
+   left:20px;
+}
+
+.buttons {
+   background-color:#dfeaf5;
+   color:#5e84a6;
+   font-family:Helvetica;
+   font-size:27px;
+   position:absolute;
+   top:350px;
+   left:950px;
+}
+
+
+.blogfilter {
+   position:absolute;
+   top:610px;
+   left: 50px;
+   font-size: 20px;
+   font-family:"Helvetica";
+   color:#18638B;
+}
+
+.blogsort {
+   position:absolute;
+   top:627px;
+   left: 180px;
+   font-size: 20px;
+   font-family:"Helvetica";
+   color:#87354d;
+}
+
+.blogsort2 {
+   position:absolute;
+   top:627px;
+   left: 420px;
+   font-size: 20px;
+   font-family:"Helvetica";
+   color:#87354d;
+}
+
+
+
+a:link {
+   color:#18638B;
+}
+
+a:visited {
+   color:#18638B;
+}
+
+a:hover {
+   color:#a35b75;
+}

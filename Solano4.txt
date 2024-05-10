@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Solano </title>
+<link rel="stylesheet" href="Solano.css" type="text/css">
+</head>
+
+<body>
+
+
+<p class="search"> Click here to search </p>
+
+
+<img src="https://i.pinimg.com/564x/f0/ea/fc/f0eafc2077e9d25235dda65de5fac84b.jpg" class="omg">
+
+<img src="https://pngimg.com/uploads/seashell/seashell_PNG72.png" class="pfp">
+
+<h1 class="handle"> My Grade 9 Portfolio <i> ! </i> </h1>
+<p class="subhandle"> @Clarisse_Solano0512 </p>
+
+
+
+<table width="1333px" class="extras">
+<tr align="center">
+<td> <a href="index.html"  style="text-decoration:none;"> About </a> </td>
+
+<td> <a href="Solano2.html" style="text-decoration:none;"> Videos </a> </td>
+
+
+<td> <a href="Solano3.html" style="text-decoration:none;"> Photos </a> </td>
+<td> <u> Blogs </u> </td>
+</tr>
+</table>
+
+
+
+<p class="labels"> RECENT BLOGS </p> 
+
+<div class="blog4">
+<p class="blog"> BLOG ONE: First Day of School </p>
+<iframe src="https://drive.google.com/file/d/1RZZGcF1YD3NKnggfE0QVwKpBqaIK4erB/preview" width="300" height="200" style="float:left;position:relative;left:30px" alt="happy frog"> </iframe>
+<p class="blog5"> <b> 23 likes - 10 comments </b> </p>
+<p class="blog3"> July 2023 <br> It was a very fun first day of Grade 9. I met new teachers, <br> saw classmates new and old, and overall had a nice day.  </p>
+<br><br><br><br><br>
+</div>
+
+<br>
+
+<div class="blog4">
+<p class="blog" style="clear:left;"> BLOG TWO: Teachers Day </p>
+<iframe src="https://drive.google.com/file/d/1D8HaNN7Y_DgUbksPKHD9NICzUXD8mWNJ/preview" width="300" height="200" allow="autoplay" style="float:left;position:relative;left:30px" alt="teachers' day class pic"></iframe>
+<iframe src="https://drive.google.com/file/d/1eDRnsThdPVmYRubPDLWArPPI80GxI8HC/preview" width="300" height="200" allow="autoplay" style="clear:left;float:left;position:relative;left:30px;top:20px" alt="pic with Ashley and Leonna"></iframe>
+<br> <br>
+<p class="blog5" style="position:relative;top:-42px;"> <b>  48 likes - 34 comments </b> </p>
+<p class="blog3" style="position:relative;top:-42px;"> September 29, 2023. 
+<br> It's teachers day! We held a program inside the classroom. 
+<br> We had games, dances, and surprises, all with some teachers joining us. <br> It was a very fun day. <3  
+<br> <br> <br>
+Our theme for the program was Olivia Rodrigo, <br> so we had purple outfits and face stickers, inspired by the singer's albums. </p>
+<br><br><br><br><br>
+</div>
+
+<br>
+
+<div class="blog4">
+<p class="blog"> BLOG THREE: AP Quiz Bee </p>
+<iframe src="https://drive.google.com/file/d/1ru1aZGkSRFUlWSUwRDVJseWK2UKG6LuF/preview" width="300" height="200" allow="autoplay" style="float:left;position:relative;left:30px" alt="frog smiling"></iframe>
+<p class="blog5"> <b> 41 likes - 18 comments </b> </p>
+<p class="blog3"> October 19, 2024 <br> I joined the AP Quiz Bee for AP Month. I accidentally studied the wrong thing, <br> so I was very confused with the questions. Luckily, I still got 2nd place !!! </p>
+<br><br><br><br><br>
+</div>
+ 
+<br>
+
+<div class="blog4">
+<p class="blog" style="clear:left;"> BLOG FOUR: Values Month </p>
+<iframe src="https://drive.google.com/file/d/1i-QKEuo6giTSBQvp2vgxpe-vWWOSepun/preview" width="300" height="200" allow="autoplay" style="float:left;position:relative;left:30px" alt="vpop performance"></iframe>
+<p class="blog5"> <b> 123 likes - 66 comments </b> </p>
+<p class="blog2" style="position:relative;top:-15px;"> VPOP </p>
+<p class="blog3" style="position:relative;top:-35px;"> December 12, 2024 <br> An experience I will never forget. We all worked hard in practicing our song and dance, <br> making costumes, and gave our very best. In the end, our performance went wonderful.  <br> <b> January 2024 Update:</b> Wow we won first place!!! </p>
+
+</div>
+
+<br>
+
+<div class="blog4">
+<p class="blog"> BLOG FIVE: Christmas Party  </p>
+<iframe src="https://drive.google.com/file/d/1iW_2qFph4pRWzck4o1umKjQ-h8LJsVfi/preview" width="300" height="200" allow="autoplay" style="float:left;position:relative;left:30px" alt="pic with Ashley"></iframe>
+<iframe src="https://drive.google.com/file/d/1E30LqG1H5Mu97spxbwGQi1_nZCen9xY_/preview" width="300" height="200" allow="autoplay" style="clear:left;float:left;position:relative;left:30px;top:20px;" alt="class pic xmas party"></iframe>
+<p class="blog5"> <b> 83 likes - 15 comments </b> </p>
+<p class="blog3"> December 16, 2024 <br> 
+We had a Christmas party before we entered our break. We held another program. There were different kinds of games and dances. We also celebrated with the other teachers. 
+<br><br><br><br>
+The most exciting part for me was the Exchange Gift giving part. <br> I gave my gift to Ashley, and she loved it very much.  <br> Meanwhile, Jacob gave me what I wanted: color pencils!! (THANK YOUUUUUU) <br> Everyone else received their gifts, and were happy from the surprises. 
+<br> <br> Also, our theme for the program was Barbie. So, the girls wore pink while the boys blue.</p>
+<br> <br>
+</div>
+
+<br>
+
+<div class="blog4">
+<p class="blog"> BLOG SIX: Math Trivia Quiz Bee  </p>
+<iframe src="https://drive.google.com/file/d/1atAVyYLt92jXAPmdfUPm8DiJt2m5efHl/preview" width="300" height="200" allow="autoplay" style="float:left;position:relative;left:30px" alt="party frog"></iframe>
+<p class="blog5"> <b> 34 likes - 7 comment </b> </p>
+<p class="blog3"> January 17, 2024 <br> 
+Leonna and I participated in the Math Trivia Quiz Bee and won second place! <br> We memorized a bunch of stuff about math, and we did our best. 
+<br><br><br><br><br><br>
+</div>
+
+<br>
+
+<div class="blog4">
+<p class="blog"> BLOG SEVEN: 1st-2nd quarter feels  </p>
+<iframe src="https://drive.google.com/file/d/14-y2GFegPhbaxtnKV-LT4XmdX_2sJPH0/preview" width="300" height="200" allow="autoplay" style="float:left;position:relative;left:30px" alt="frog floats hands in air"></iframe>
+<p class="blog5"> <b> 17 likes - 3 comments </b> </p>
+<p class="blog3"> Janaury 30, 2024 <br> 
+So the first half of the school year is over. I went through many quizzes, <br> performance tasks, and activities. I can say I am already enjoying Grade 9. <br> I wish to see more exciting things during the second half, which is 3rd - 4th quarter. </p> <br>
+</div>
+
+<br>
+
+<div class="blog4">
+<p class="blog" style="clear:left;"> BLOG EIGHT: Variety Show  </p>
+<iframe src="https://drive.google.com/file/d/1clmQbUUMgr1HZtxvtQE6xxyiYu4hjisk/preview" width="300" height="200" allow="autoplay" style="float:left;position:relative;left:30px" alt="class pic vshow"></iframe>
+<iframe src="https://drive.google.com/file/d/1LQSLiOnWgcTg3ktWuIPcaP3yxyiTz_gA/preview" width="300" height="200" allow="autoplay"style="clear:left;float:left;position:relative;left:30px;top:20px;" alt="vshow festival dance"></iframe>
+<p class="blog5"> <b> 198 likes - 100 comment </b> </p>
+<p class="blog3"> April 4, 2024 <br> Another unforgettable experience. <br> For our ESP class, we held a variety show for Women's Month. <br> Tons of preparations were made for this, and I am glad it turned out very nice.  <br> We performed dances, songs (even original ones), and other fun stuff. </p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
+
+<br>
+
+<div class="blog4">
+<p class="blog"> BLOG NINE: About AP Interactive Notebooks  </p>
+<iframe src="https://drive.google.com/file/d/1XW3FBFShndeTsDaKPwbNLmuZgDEVpjzV/preview" width="300" height="200" allow="autoplay" style="float:left;position:relative;left:30px" alt="another happy frog"></iframe>
+<p class="blog5"> <b> 5 likes - 1 comment </b> </p>
+<p class="blog3"> May 10, 2024. <br> 
+I posted this blog because this actually kind of memorable. <br> During the school year, we were tasked in AP to do an interactive notebook for every quarter. <br> I remember starting making them early, but I still had to also cram it in school minutes <br> before passing it. (look how thick my notebooks are)
+<br><br>
+</div>
+
+<br>
+
+<div class="blog4">
+<p class="blog"> BLOG TEN: What a wonderful Grade 9 </p>
+<iframe src="https://drive.google.com/file/d/1gfNuBjIpjbWgfcwJF_70YW9oTQhG3RpN/preview" width="300" height="200" allow="autoplay" style="float:left;position:relative;left:30px" alt="frogs give you a gift"></iframe>
+<p class="blog5"> <b> 213 likes - 119 comments </b> </p>
+<p class="blog3"> May 10, 2024 <br> So we are nearing the end of our Grade 9. I can say that I enjoyed a lot of my time. <br> I experienced many new things, faced challenges and fears, and had fun. <br> I want to say thank you for making this Grade 9 wonderful and memorable. I appreciate every moment of it. I will now prepare to enter Grade 10. <br>
+<audio controls> <source src="Untitled.mp3"> </audio>
+<br><br>
+</div>
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<table class="buttons" width="380px" cellspacing="8px">
+<tr align="center">
+<td> Add Friend </td>
+<td> Message </td>
+</tr>
+</table>
+
+
+<img src="https://i.pinimg.com/564x/86/7e/0d/867e0d5bfb4be2d6af4a30a0ab3ad9ac.jpg" class="search2" width="185px" 
+height="45px">
+
+<img src="bird.jpg"
+class="search3" width="45px" height="45px">
+
+<p class="blogfilter"> Album Sort: </p>
+
+<select class="blogsort"> Blog Album 
+<option value="Album1" selected> My Grade 9 Experience </option>
+</select>
+
+<select class="blogsort2"> Order 
+<option value="Album1" selected> Ascending </option>
+</select>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Solano </title>
+<link rel="stylesheet" href="Solano.css" type="text/css">
+</head>
+
+<body>
+
+
+<p class="search"> Click here to search </p>
+
+
+<img src="https://i.pinimg.com/564x/f0/ea/fc/f0eafc2077e9d25235dda65de5fac84b.jpg" class="omg">
+
+<img src="https://pngimg.com/uploads/seashell/seashell_PNG72.png" class="pfp">
+
+<h1 class="handle"> My Grade 9 Portfolio <i> ! </i> </h1>
+<p class="subhandle"> @Clarisse_Solano0512 </p>
+
+
+
+<table width="1333px" class="extras">
+<tr align="center">
+<td> <a href="index.html"  style="text-decoration:none;"> About </a> </td>
+
+<td> <u> Videos </u> </td>
+
+<td> <a href="Solano3.html" style="text-decoration:none;"> Photos </a> </td>
+
+<td> <a href="Solano4.html" style="text-decoration:none;"> Blogs </a> </td>
+</tr>
+</table>
+
+
+<p class="labels"> RECENT VIDEOS </p> 
+
+
+<table align="center" cellspacing="0" cellpadding="2" width="1333px" class="posts">
+<tr align="center">
+<td> <iframe src="https://drive.google.com/file/d/1pQ5gnWLBfE7rc1W4joBXBFTTw0Rgx2n-/preview" width="500" height="400" allow="autoplay" alt="Teachers' Day Video PT of Grp 4"></iframe> </td>
+<td> <iframe src="https://drive.google.com/file/d/1ClTfbaWksFF6LnCXsZMH0jm6Czid-ri9/preview" width="500" height="400" allow="autoplay" alt="ICT Reflection"></iframe> </td>
+</tr>
+
+<tr style="position:relative;
+left:13px;
+color:#18638B;">
+<td> <b>  38 likes - 12 comments </b> </td>
+<td> <b>  66 likes - 23 comments </b> </td>
+</tr>
+
+<tr style="position:relative;
+left:13px;color:#87354d;">
+<td> Teachers Day PT in ICT :D </td>
+<td> Reflection for ICT <3 (ft. Ashley and Jojie) </td>
+
+</tr> 
+
+</table>
+
+<br>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="2" width="1333px" class="posts">
+<tr align="center">
+<td> <iframe src="https://drive.google.com/file/d/1ClGGDeG4n9_jKIyCT4NEB6U9wlkQoJLR/preview" allow="autoplay" width="500" height="400" alt="Health MV of Grp 4"></iframe></td>
+</tr>
+
+<tr style="position:relative;
+left:13px;
+color:#18638B;" align="center">
+<td> <b>  48 likes - 19 comments </b> </td>
+</tr>
+
+<tr style="position:relative;
+left:13px;color:#87354d;" align="center">
+<td> "Gintong Mundo" Health MV </td>
+
+
+</tr> 
+
+</table>
+
+
+<br> <br>
+<br> <br>
+
+
+
+<br>
+
+<p class="load" align="right"> Load more... </p> 
+
+<br> <br>
+<hr width="1316px" color="#d1d1d1" size="3">
+<br> <br>
+
+
+
+
+
+
+
+<table class="buttons" width="380px" cellspacing="8px">
+<tr align="center">
+<td> Add Friend </td>
+<td> Message </td>
+</tr>
+</table>
+
+
+<img src="https://i.pinimg.com/564x/86/7e/0d/867e0d5bfb4be2d6af4a30a0ab3ad9ac.jpg" class="search2" width="185px" height="45px">
+
+<img src="bird.jpg" 
+class="search3" width="45px" height="45px">
+
+<p class="blogfilter"> Album Sort: </p>
+
+<select class="blogsort"> Blog Album 
+<option value="Album1" selected> My Grade 9 Experience </option>
+</select>
+
+<select class="blogsort2"> Order 
+<option value="Album1" selected> Ascending </option>
+</select>
+
+
+</body>
+</html>
